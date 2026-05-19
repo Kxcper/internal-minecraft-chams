@@ -1,5 +1,5 @@
 #include <windows.h>
-#include <thread> // Include this header for std::this_thread
+#include <thread>
 #include "gl_scale_f.h"
 static HINSTANCE g_hModule = nullptr;
 
