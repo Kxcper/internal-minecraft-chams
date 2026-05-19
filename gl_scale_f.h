@@ -20,7 +20,7 @@ namespace hooks {
 
 			glEnable(GL_POLYGON_OFFSET_FILL);
 
-			/* disables texture drawing (players will instead be a flat colour) */
+			/* disables texture drawing (players will instead be a flat color) */
 			//glDisable(GL_TEXTURE_2D);
 
 			/* colours the model in, modifying the color changes the hue of the skin, by default 1,1,1,1 = no hue */
